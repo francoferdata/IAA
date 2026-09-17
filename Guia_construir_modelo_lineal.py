@@ -50,7 +50,7 @@ else:
     CARPETA_CLASE = Path.cwd()
 
 # Esta variable señala el archivo que pandas debe leer.
-RUTA_DATOS = CARPETA_CLASE / "deptos_caba_2020.csv"
+RUTA_DATOS = CARPETA_CLASE / "/workspaces/IAA/departamentos-en-venta-2020.csv"
 
 
 # =============================================================================
